@@ -1,0 +1,1 @@
+raytracer.Main-Class: group01.javaproject.Main
