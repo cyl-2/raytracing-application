@@ -2,6 +2,6 @@
 *
 *   Ray Tracing Application
 *
-*   Only shape renderable: sphere
+*   For the CS3318 module
 *   
 ****************************************************/
